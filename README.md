@@ -1,4 +1,4 @@
-# 🍗 Site Selection Using Machine Learning & Geospatial Analysis
+# Site Selection Using Machine Learning & Geospatial Analysis
 
 ## 📌 Overview
 This project develops a data-driven site selection model to identify optimal locations for new Jollibee stores. By combining geospatial analysis, demographic data, and machine learning, the model evaluates candidate locations based on accessibility, competition, and population influence.

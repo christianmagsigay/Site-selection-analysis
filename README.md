@@ -112,7 +112,7 @@ This version relied on expert-defined rules rather than predictive modeling, ser
 
 ### 🎥 Project Demo (ArcGIS)
 You can view the ArcGIS workflow and results here:  
-👉 [Insert your video link here]
+👉 [https://drive.google.com/file/d/10fyYqO8W9t9ihUgFsdD2UvZ3qKXSmdCE/view?usp=sharing]
 
 ---
 

@@ -95,11 +95,43 @@ Key features include:
 - Expand analysis beyond Metro Manila
 
 ---
+## 🗺️ Earlier Version: Spatial Analysis in ArcGIS
 
-## 👤 Author
-Christian Jay P. Magsigay
+Before developing the machine learning model, this project was initially implemented using a purely geospatial approach in ArcGIS. The goal was to identify suitable locations for Jollibee stores using spatial analysis techniques and domain-driven criteria.
+
+### 🔍 Approach
+The ArcGIS-based workflow focused on:
+- Buffer analysis around key points of interest (e.g., malls, roads, gas stations)
+- Overlay analysis to combine multiple spatial layers
+- Weighted suitability mapping based on predefined criteria
+- Identification of high-potential zones using spatial scoring
+
+This version relied on expert-defined rules rather than predictive modeling, serving as a strong baseline for comparison with the machine learning approach.
 
 ---
 
-## 📄 License
-This project is for academic and research purposes only.
+### 🎥 Project Demo (ArcGIS)
+You can view the ArcGIS workflow and results here:  
+👉 [Insert your video link here]
+
+---
+
+### 🖼️ Thesis Poster
+A visual summary of the ArcGIS-based methodology and findings:  
+![Poster](poster.jpg)
+
+---
+
+### 🔄 Evolution to Machine Learning
+The transition from ArcGIS to a machine learning approach allowed for:
+- More scalable and automated site evaluation
+- Data-driven feature weighting instead of manual scoring
+- Improved accuracy through model training and validation
+- Better insights using explainability tools (e.g., SHAP)
+
+This progression demonstrates the shift from traditional GIS analysis to modern data science-driven decision-making.
+
+---
+
+## 👤 Author
+Christian Jay P. Magsigay

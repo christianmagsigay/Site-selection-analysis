@@ -95,12 +95,12 @@ Key features include:
 - Expand analysis beyond Metro Manila
 
 ---
-## 🗺️ Earlier Version: Spatial Analysis in ArcGIS
+## 🗺️ Earlier Version: Spatial Analysis in ArcGIS/Python
 
-Before developing the machine learning model, this project was initially implemented using a purely geospatial approach in ArcGIS. The goal was to identify suitable locations for Jollibee stores using spatial analysis techniques and domain-driven criteria.
+Before developing the machine learning model, this project was initially implemented using a purely geospatial approach in ArcGIS/Python. The goal was to identify suitable locations for Jollibee stores using spatial analysis techniques and domain-driven criteria.
 
 ### 🔍 Approach
-The ArcGIS-based workflow focused on:
+The ArcGIS/Python-based workflow focused on:
 - Buffer analysis around key points of interest (e.g., malls, roads, gas stations)
 - Overlay analysis to combine multiple spatial layers
 - Weighted suitability mapping based on predefined criteria
@@ -111,13 +111,13 @@ This version relied on expert-defined rules rather than predictive modeling, ser
 ---
 
 ### 🎥 Project Demo (ArcGIS)
-You can view the ArcGIS workflow and results here:  
+You can view the ArcGIS/Python workflow and results here:  
 👉 [https://drive.google.com/file/d/10fyYqO8W9t9ihUgFsdD2UvZ3qKXSmdCE/view?usp=sharing]
 
 ---
 
 ### 🖼️ Thesis Poster
-A visual summary of the ArcGIS-based methodology and findings:  
+A visual summary of the ArcGIS/Python-based methodology and findings:  
 ![Poster](poster.jpg)
 
 ---
